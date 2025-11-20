@@ -1,0 +1,27 @@
+[Data Source]
+DisplayName=ciprianojavierperezgarcia@gmail.com
+Enabled=true
+Parent=93b08b88cca618f98ca9ddba998274cbc42e90e7
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=ciprianojavierperezgarcia@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false
+DsnRetFull=false
+DsnNotifySuccess=true
+DsnNotifyFailure=true
+DsnNotifyDelay=true

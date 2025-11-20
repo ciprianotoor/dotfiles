@@ -1,0 +1,47 @@
+Warning: Ignoring XDG_SESSION_TYPE=wayland on Gnome. Use QT_QPA_PLATFORM=wayland to run on Wayland anyway.
+QSocketNotifier: Can only be used with threads started with QThread
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+Gtk-Message: 21:07:31.491: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 21:07:42.476: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 21:07:44.220: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+Exception ignored in: <bound method BaseEventLoop.call_exception_handler of <_UnixSelectorEventLoop running=False closed=True debug=False>>
+Traceback (most recent call last):
+  File "asyncio/base_events.py", line 1786, in call_exception_handler
+  File "logging/__init__.py", line 1475, in error
+  File "logging/__init__.py", line 1589, in _log
+  File "logging/__init__.py", line 1599, in handle
+  File "logging/__init__.py", line 1661, in callHandlers
+  File "logging/__init__.py", line 952, in handle
+  File "ideskcore/mainlogs.py", line 212, in emit
+AttributeError: 'NoneType' object has no attribute 'add'
+Warning: Ignoring XDG_SESSION_TYPE=wayland on Gnome. Use QT_QPA_PLATFORM=wayland to run on Wayland anyway.
+QSocketNotifier: Can only be used with threads started with QThread
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+Warning: Ignoring XDG_SESSION_TYPE=wayland on Gnome. Use QT_QPA_PLATFORM=wayland to run on Wayland anyway.
+QSocketNotifier: Can only be used with threads started with QThread
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+Warning: Ignoring XDG_SESSION_TYPE=wayland on Gnome. Use QT_QPA_PLATFORM=wayland to run on Wayland anyway.
+QSocketNotifier: Can only be used with threads started with QThread
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+Gtk-Message: 21:09:11.628: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+Gtk-Message: 21:09:16.191: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+js: Uncaught (in promise) #<Object>
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+Gtk-Message: 21:09:39.147: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+Exception ignored in: <bound method BaseEventLoop.call_exception_handler of <_UnixSelectorEventLoop running=False closed=True debug=False>>
+Traceback (most recent call last):
+  File "asyncio/base_events.py", line 1786, in call_exception_handler
+  File "logging/__init__.py", line 1475, in error
+  File "logging/__init__.py", line 1589, in _log
+  File "logging/__init__.py", line 1599, in handle
+  File "logging/__init__.py", line 1661, in callHandlers
+  File "logging/__init__.py", line 952, in handle
+  File "ideskcore/mainlogs.py", line 212, in emit
+AttributeError: 'NoneType' object has no attribute 'add'

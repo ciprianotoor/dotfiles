@@ -1,0 +1,27 @@
+[Data Source]
+DisplayName=ciprianotoor@gmail.com
+Enabled=true
+Parent=5df01a1b9aef116d52a3da6901fd2ea6a34b1907
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=ciprianotoor@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false
+DsnRetFull=false
+DsnNotifySuccess=true
+DsnNotifyFailure=true
+DsnNotifyDelay=true

@@ -1,0 +1,27 @@
+[Data Source]
+DisplayName=ciprianotoor@gmail.com
+Enabled=true
+Parent=e02ce69595a90aad97a9ad47372476c6f5b2c43e
+
+[Authentication]
+Host=smtp-mail.outlook.com
+Method=XOAUTH2
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=ciprianotoor@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=starttls-on-standard-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false
+DsnRetFull=false
+DsnNotifySuccess=true
+DsnNotifyFailure=true
+DsnNotifyDelay=true

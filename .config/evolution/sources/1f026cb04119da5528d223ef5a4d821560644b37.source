@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=ciprianotoor@gmail.com
+Enabled=true
+Parent=e02ce69595a90aad97a9ad47372476c6f5b2c43e
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=4ee0b981bee8f9826d7b08795cd2a3cc8b9a43c8
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=ciprianotoor@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

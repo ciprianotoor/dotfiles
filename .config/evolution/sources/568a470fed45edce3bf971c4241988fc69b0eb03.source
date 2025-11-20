@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=ciprianojavierperezgarcia@gmail.com
+Enabled=true
+Parent=93b08b88cca618f98ca9ddba998274cbc42e90e7
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=a1e9d711a823f523774c28466664ec5cb74f4933
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=ciprianojavierperezgarcia@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

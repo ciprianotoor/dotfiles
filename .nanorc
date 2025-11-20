@@ -1,0 +1,19 @@
+## Mostrar números de línea
+set linenumbers
+
+## Resaltar sintaxis para varios lenguajes
+include /usr/share/nano/*.nanorc
+
+## Auto-indent (indentación automática)
+set autoindent
+
+## Resaltar la barra de estado
+set smarthome
+
+## Permitirá copiar y pegar usando Ctrl+Shift+C / Ctrl+Shift+V en terminales modernas
+set mouse
+
+## Mostrar el cursor como bloque
+set constantshow
+## Recordar posicion del puntero
+set positionlog
